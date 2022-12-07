@@ -1,4 +1,4 @@
-# metal-website2
+# metal-website
 
 ## Project setup
 ```
